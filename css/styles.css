@@ -1,0 +1,15 @@
+.blackpanther-image {
+    width: 400px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: #85929E;
+    color: ghostwhite;
+}
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center 
+}
+
